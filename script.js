@@ -1,0 +1,1 @@
+navigator.clipboard.writeText("Never Gonna Give You Up...")
